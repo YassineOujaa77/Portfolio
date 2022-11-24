@@ -1,6 +1,6 @@
-baseURL = "https://raditian-hugo.radity.com/"
+baseURL = "https://MyTheme/"
 languageCode = "en-us"
-theme = "raditian-free-hugo-theme"
+theme = "MyTheme"
 
 # Plugins
 [params.plugins]

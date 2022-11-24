@@ -1,0 +1,159 @@
+# showcase
+showcase:
+  enable: true
+  title: "Hello, I’m Yassine Oujaa."
+  subtitle: "Software engineer"
+  description: "As a Sotfware Engineering student, developing IT solutions and automating tasks has been of my greatest passions. I am open to new technologies and ready to create strong, contemporary, and effective solutions."
+  image:
+    x: "img/showcase/home.jpg"
+    _2x: "img/showcase/home.jpg"
+  imageMobile:
+    x: "img/showcase/home.jpg"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact"
+    target: "_blank"
+    URL: "https://www.linkedin.com/in/yassine-oujaa"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/yassine-oujaa"
+
+    - icon: "github"
+      URL: "https://github.com/YassineOujaa77"
+
+    - icon: "instagram"
+      URL: "https://www.instagram.com/yassine_maxwell7162/"
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content: '
+    <p class="lead">
+    Hello! My name is Yassine Oujaa and I enjoy solving problems using my keyboard .
+    I love spending a lot of time coding. My interest in software engineering started back in 2018
+    when I had an idea about society related problem and I wanted to develop it.
+
+    <br/> <br/>
+    Fast-forward to today, and I have had the privilege of working on different projects
+    to improve my skills and reach out to build my dream application .
+
+    I love working on group and I enjoy every moment of that , I love linux and specially Arch distribution
+    I worked with different programming languages such as Java , C/C++ , Python , JavaScript , PHP and more .
+    <br/>
+    I like reading books , traveling and helping
+    people .
+    I love colors and nature, and I’am a
+    photgrapher too 
+
+
+
+    </p>'
+
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/in/yassine-oujaa"
+  image:
+    x: "img/who-am-i/MyPic.png"
+    _2x: "img/who-am-i/MyPic.png"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "National school of applied sciences Kenitra-Morocco "
+      year: "Septembre 2018 - Juin 2023"
+      degree: "Software engineer degree"
+
+    - university: "Imam El Ghazali High school , Temara-Maroc "
+      year: "Septembre 2017-Juin 2018"
+      degree: "baccalaureate in mathematical science, Mention good (Bien) "
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: "Over 3 years in school I developed my skills ."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/yassine-oujaa"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "#"
+    File: "img/CV/Yassine Oujaa.pdf"
+
+  items:
+    - title: "Web developer"
+      company: "MAASI"
+      duration: "Aug 2022 - Sep 2022"
+
+    - title: "Full-Stack developer"
+      company: "3P Conseil"
+      duration: "Sep 2021 - Aug 2021 "
+
+# Client & Work
+client_and_work:
+  title: "Projects"
+  enable: true
+  works:
+    - title: "Radity Finance - UI Kit"
+      description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "img/works/radity-finance.jpg"
+        _2x: "img/works/radity-finance@2x.jpg"
+      is_even: true
+
+
+# testimonial
+testimonial:
+  enable: true
+  title: "Testimonials"
+  items:
+    - name: "Mohammed Daoudi"
+      position: "Devops Engineer"
+      content: "I've known Yassine from ENSA-K, I was his upper class mate. We've had the chance to work together in Anaruz and EIC as well. 
+
+Among the people I met in ENSA-K, Yassine is one the most passionate people about tech. He always gives all his heart to what he is doing, and never gives up until he gets things done.
+
+Also, Yassine is a team player and a problem solver. He is very good at solving problems, especially when it comes to solving them within a team.."
+      image:
+        x: "img/testimonials/pp.jpg"
+        _2x: "img/testimonials/pp.jpg"
+
+# contact
+contact:
+  enable: true
+  title: "Contact"
+  form:
+    action: "#"
+    full_name: "Full Name"
+    email: "Email Address"
+    message: "Type Your Message Here"
+  phone:
+    title: "Phone Number"
+    number: "+212 655-209429"
+  email:
+    title: "Email"
+    email: '<a href="mailto:yassineoujaa42@gmail.com">yassineoujaa42@gmail.com</a>'
+  
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+
+# newsletter
+newsletter:
+  enable: true
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."
