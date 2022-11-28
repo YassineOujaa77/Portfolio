@@ -1,4 +1,4 @@
-baseURL = "https://github.com/YassineOujaa77/Portfolio/themes/MyTheme/static/"
+baseURL = "https://github.com/YassineOujaa77/Portfolio/tree/master/themes/MyTheme/static"
 title = "Yassine Oujaa"
 languageCode = "en-us"
 theme = "MyTheme"
