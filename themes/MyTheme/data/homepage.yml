@@ -102,15 +102,27 @@ client_and_work:
   title: "Projects"
   enable: true
   works:
-    - title: "Radity Finance - UI Kit"
-      description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
+    - title: "Gestion de stock d'un magasin"
+      description: "Building a web application in order to manage sells, Products, Minimum stock alerts and billing with tree
+      profiles (Admin, cashier, delivery agent)  ."
       button:
         icon: "icon-arrow-right"
-        btnText: "Case Study"
+        btnText: "Code source"
+        URL: "https://github.com/YassineOujaa77/Gestion_de_stock_d-un_magasin"
+      image:
+        x: "img/works/gestion_de_stock_magazin.png"
+        _2x: "img/works/gestion_de_stock_magazin.png"
+      is_even: true
+
+    - title: "Bricoli "
+      description: "  ."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Code source"
         URL: "#"
       image:
-        x: "img/works/radity-finance.jpg"
-        _2x: "img/works/radity-finance@2x.jpg"
+        x: "img/works/Bricoli_mobile_app.png"
+        _2x: "img/works/Bricoli_mobile_app.png"
       is_even: true
 
 
